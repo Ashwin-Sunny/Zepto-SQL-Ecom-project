@@ -31,6 +31,8 @@ quantity – Units per package (mixed with grams for loose items)
 
 Created the SQL table using appropriate datatypes for consistent storage:
 
+<img width="928" height="645" alt="Image" src="https://github.com/user-attachments/assets/391fa699-d4db-4380-bf0a-4606709589eb" />
+
 CREATE TABLE zepto (
   sku_id SERIAL PRIMARY KEY,
   category VARCHAR(120),
